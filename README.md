@@ -1,7 +1,7 @@
 Hugh Easton - Middlebury College Class of 2023 - Mathematics and Computer Science Double Major
 
 I'm interested in all things data science! From scraping data online to using that data for Machine Learning and data-based prediction methods.
-Work in:
+I work in:
 
 - Python
 - Java
