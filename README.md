@@ -1,4 +1,4 @@
-Hugh Easton\\
+Hugh Easton\n
 Middlebury College Class of 2023\\
 Mathematics and Computer Science Double Major
 
