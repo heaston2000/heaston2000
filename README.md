@@ -4,9 +4,10 @@ I'm interested in all things data science! From scraping data online to using th
 I work in:
 
 - Python
-- Java
+- R
 - C++
 - MATLAB
+- Java
 - And much more...
 
 <!---
