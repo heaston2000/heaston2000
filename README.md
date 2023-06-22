@@ -6,7 +6,7 @@ Enthusiastic about data science and machine learning. I work in:
 - R
 - C++
 - MATLAB
-- Java
+- Javascript + HTML
 - And much more...
 
 Find me on my website (https://heaston2000.github.io/) or on LinkedIn (https://www.linkedin.com/in/hugh-easton-4312b8207/)
